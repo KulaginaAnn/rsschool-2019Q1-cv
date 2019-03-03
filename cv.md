@@ -1,27 +1,27 @@
-   #Anna Kulagina
+   # Anna Kulagina
 
 Gomel, Belarus
 Tel: +375 29 1022726
 E-mail: anna.kulahina@gmail.com
 	
-##Summary	
+## Summary	
 Start a career as a front end developer. Ready to learn and develop technical skills
 
-##Skills	
+## Skills	
  - C++, Java. 
  - JDBC.
  - Ide: IntelliJ IDEA, Microsoft Visual Studio, Web Storm. 
  - Frameworks: Spring, SpringBoot.
  - Database: MySQL, MS SQL.
 
-##Experience	
+## Experience	
 Engineer programmer of the department of automated control systems and technological process
 
-##Education	
+## Education	
  - 2010 – 2015	Microprocessor information management systems,
 Engineer degree, BelSUT, Gomel.
  - 2008 – 2010	Physics and Mathematics, Lyceum №1, Gomel.
 
-##Languages
+## Languages
 English – intermediate level,
 Russian – native speaker.
